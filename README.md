@@ -29,4 +29,4 @@ For a directory, every file in the directory will be upscaled
 The output will be in /path/to/ComfyUI/output/[image\_name]\_upscaled\_[number].ext
 
 ## Workflow
-The full workflow is available in image\_upscale.json to load into ComfyUIjpg
+The full workflow is available in image\_upscale.json to load into ComfyUI
